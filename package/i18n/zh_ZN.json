@@ -1,0 +1,21 @@
+{
+  "noEmpty": "不能为空",
+  "noEmptyPhone": "手机号不能为空",
+  "noEmoji": "暂不支持emoji",
+  "noEqual": "两次密码输入不一致",
+  "noSpaces": "不能包含空格",
+  "username": "用户名",
+  "phone": "手机号",
+  "email": "邮箱",
+  "code": "验证码",
+  "password": "密码",
+  "validPhone": "请输入有效的手机号",
+  "validEmail": "请输入有效的邮箱名称",
+  "validCode": "请输入有效的验证码",
+  "noSpacesAndChinese": "密码需由数字、大小写字母或符号组成",
+  "lettersAndNumbers": "只能由字母、数字组成",
+  "lengthMinMax": "长度为 {{ min }} ~ {{ max }} 个字符",
+  "lengthMax": "不能超过{{ max }}个字符",
+  "lengthMin": "不能小于{{ min }}个字符",
+  "usernameRegistered": "该用户名已被注册"
+}

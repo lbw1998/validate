@@ -1,0 +1,27 @@
+{
+  "name": "virtai-validate",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^4.4.0",
+    "emoji-regex": "^10.2.1",
+    "form": "link:ant-design-vue/lib/form",
+    "i18next": "^23.5.1",
+    "vue": "^3.3.4",
+    "vue-demi": "^0.14.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.3",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5",
+    "vitest": "^0.34.6",
+    "vue-tsc": "^1.8.5"
+  }
+}

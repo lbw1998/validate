@@ -1,0 +1,21 @@
+{
+  "noEmpty": "Cannot be empty",
+  "noEmptyPhone": "Phone cannot be empty",
+  "noEmoji": "Emoji is unsupportted",
+  "noEqual": "Two passwords you input are different",
+  "noSpaces": "Cannot consist of blank",
+  "username": "username",
+  "phone": "phone",
+  "email": "email",
+  "code": "code",
+  "password": "password",
+  "validPhone": "Please input valid phone number",
+  "validEmail": "Please input valid e-mail",
+  "validCode": "Please input valid verification code",
+  "noSpacesAndChinese": "Password must contain numbers, uppercase and lowercase English letters, or symbols",
+  "lettersAndNumbers": "Should consist of letters and numbers",
+  "lengthMinMax": "Should contain {{ min }} - {{ max }} characters",
+  "lengthMax": "Should not contain more than {{ max }} characters",
+  "lengthMin": "Should not contain less than {{ min }} characters",
+  "usernameRegistered": "The username is already registered"
+}
